@@ -1,6 +1,13 @@
 # zemcad2gis
 ZEM/CAD to standard GIS format converter.
 
+#The Converter
+ZEM/CAD to GIS converter was designed to transfer available data in ZEM and CAD format in standard GIS forat as PostgreSQL/PosGIS, ESRI Shapefiles etc.
+
+Converter is writen in Python with credits to PostgreSQL/PostGIS; psycopg2; ogr softwares as required to run it.
+
+
+
 prerequisites
 Python 2.x
 PostgreSQL/PostGIS 9.x/2.x
