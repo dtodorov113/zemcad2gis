@@ -8,8 +8,15 @@ psycopg2
 
 
 installation
+windows 7 x64 bit installation
+
+linux ubuntu 12.04 LTS installation
+
+
+
 
 required libraries
+psycopg2
 
 
 configuration
