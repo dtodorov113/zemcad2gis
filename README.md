@@ -33,5 +33,5 @@ psycopg2
 #run script as cron
 
 
-run script as web service
+#run script as web service
 
