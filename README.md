@@ -8,13 +8,13 @@ Converter is writen in Python with credits to PostgreSQL/PostGIS; psycopg2; ogr 
 
 
 
-prerequisites
+#prerequisites
 Python 2.x
 PostgreSQL/PostGIS 9.x/2.x
 psycopg2
 
 
-installation
+#installation
 windows 7 x64 bit installation
 
 linux ubuntu 12.04 LTS installation
@@ -22,15 +22,15 @@ linux ubuntu 12.04 LTS installation
 
 
 
-required libraries
+#required libraries
 psycopg2
 
 
-configuration
+#configuration
 
 
 
-run script as cron
+#run script as cron
 
 
 run script as web service
